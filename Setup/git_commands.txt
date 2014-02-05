@@ -1,18 +1,9 @@
 GIt commands................
 
 
-
-1. git status  -s  # checking the the status of the software directory
-
-2. git add . # Adding the the new file to the master directory
-
-3. git commit -a # Commting the changes to the file repository
-
-4.git push origin master
-
-4 git clone https://github.com/mayursarode/Wireless_measurement_tool_TPVision.git
-
-
+1. git clone url............
+2. git push  (push changes to update)
+3. git pull (pull changes to update)
 
 username: mayursarode
-password :tpvision123
+password :tpvision2012.
