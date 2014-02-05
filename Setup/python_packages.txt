@@ -1,0 +1,22 @@
+
+
+OS: FC 20 , Fedora 20
+Kernel : 3.11.10-301
+Python: 2.7/ 2.7.5
+
+yum update   %%%update the fedora system
+yum update install
+
+
+
+
+import Tkinter
+import tkFont
+from PIL import Image, ImageTk
+import paramiko
+import Image, ImageTk
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2TkAgg
+import xlwt
+import serial
+import tkFileDialog
